@@ -6,7 +6,6 @@
 - [Solution](#solution)
 - [Doctor and Patient interaction](#Doctor-and-Patient-interaction)
 - [More feature for Patient’s](#More-feature-for-Patient’s)
-- [Project Links](#Important-links)
 
 
 ## Problem Statement 
